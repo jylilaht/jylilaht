@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jylilaht
-- 👀 I’m interested in industrial automation related programming, python, C#, visual basic, C, C++
-- 🌱 I’m currently learning python and C#
-- 💞️ I’m looking to collaborate on some side jobs that pay off
+- 👀 I’m interested in industrial automation related programming, python, C#, visual basic, C, C++, SQL, powershell, batch scripts
+- 🌱 I’m currently learning SQL, powershell, python and C#
+- 💞️ I’m looking to collaborate on some small side jobs that pay off well
 - 📫 How to reach me jylilaht at hotmail dotcom
 
 <!---
